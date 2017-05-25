@@ -1,0 +1,6 @@
+*
+!src
+!include
+!Makefile
+!README.md
+!.*
